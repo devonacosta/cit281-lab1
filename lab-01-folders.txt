@@ -1,0 +1,11 @@
+total 0
+-rw-r--r--  1 devonacosta  staff    0 Apr  5 12:54 lab-01-folders.txt
+drwxr-xr-x@ 4 devonacosta  staff  128 Mar 31 13:44 p1
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p2
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p3
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p4
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p5
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p6
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p7
+drwxr-xr-x@ 2 devonacosta  staff   64 Mar 31 13:29 p8
+drwxr-xr-x@ 7 devonacosta  staff  224 Apr  5 12:52 vs code

@@ -1,0 +1,16 @@
+
+1. control + shift + C
+2. control + shift + V
+3. dd
+4. command + S
+5. /* */
+6. // 
+7. control + right arrow
+8. control + left arrow
+9. esc + F
+10. esc + B
+11. command + A 
+12. control + shift + A
+13. control + A
+14. control + E
+15. esc + G
