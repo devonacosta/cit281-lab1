@@ -22,4 +22,4 @@
 [lab-01-node.js](lab-01-node.js)
 
 5.lab-01-node.png
-![lab-01-node.png](lab-01-node.js)
+![lab-01-node.png](lab-01-node.png)
